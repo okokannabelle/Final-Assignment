@@ -1,0 +1,65 @@
+body {
+  background-image: url("fireworks_background.png");
+  background-size: 965px 750px;
+	color:white;
+}
+
+#wrapper {
+	background-color:#74132C;
+	margin:0 auto;
+	width:1500px;
+}
+
+#header1 {
+	color:white;
+	text-align:center;
+}
+
+#header2, #header3 {
+	color:black;
+	font-size:25px;
+	text-align:center;
+}
+
+#content {
+  background-color:#E5A0B1;
+	font-size: 18px;
+	height:3280px;
+	text-align:center;
+	width:1500px;
+}
+
+.ctext {
+  color: black;
+}
+
+.image1 {
+  height:334px;
+	width:500px;
+}
+
+.image3 {
+	height:384px;
+	width:512px;
+}
+
+.image4 {
+	height:384px;
+	width:512px;
+}
+
+.image5 {
+	height:512px;
+	width:341px;
+}
+
+#answer {
+	color:#4E0012;
+}
+
+#footer{
+	background-color:#9B344E;
+	font-size:15px;
+	height:95px;
+	text-align: center;
+	width:1500px;

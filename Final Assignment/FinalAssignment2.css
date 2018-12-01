@@ -1,0 +1,106 @@
+body {
+  background-image: url("IMG_0672.jpg");
+  background-size: 965px 750px;
+}
+
+#wrapper {
+	background-color:#74132C;
+	margin:0 auto;
+	width:1500px;
+}
+
+#header1 {
+  color:white;
+  font-size:20px;
+  text-align: center;
+}
+
+#header2, #header3 {
+	color:black;
+	font-size:25px;
+	text-align:center;
+}
+
+#content {
+  background-color:#E5A0B1;
+	font-size:18px;
+	height:3200px;
+	text-align:center;
+	width:1500px;
+}
+
+.ctext {
+  color:black;
+}
+
+.image1 {
+  height:300px;
+	width:400px;
+  border-style:solid;
+  border-color:black;
+  border-width:3.5px;
+}
+
+.image2 {
+  height:240px;
+  width:240px;
+  border-style:solid;
+  border-color:black;
+  border-width:3.5px;
+}
+
+.image3 {
+  height:231px;
+	width:406px;
+  border-style:solid;
+  border-color:black;
+  border-width:3.5px;
+}
+
+.image4 {
+  height:200px;
+	width:250px;
+  border-style:solid;
+  border-color:black;
+  border-width:3.5px;
+}
+
+.image5 {
+  height:360px;
+	width:240px;
+  border-style:solid;
+  border-color:black;
+  border-width:3.5px;
+}
+
+.image6 {
+  height:360px;
+	width:240px;
+  border-style:solid;
+  border-color:black;
+  border-width:3.5px;
+}
+
+.image7 {
+  height:200spx;
+	width:350px;
+  border-style:solid;
+  border-color:black;
+  border-width:3.5px;
+}
+
+.image8 {
+  height:312.5px;
+	width:375px;
+  border-style:solid;
+  border-color:black;
+  border-width:3.5px;
+}
+
+#footer{
+	background-color:#9B344E;
+	font-size:15px;
+	height:65px;
+	text-align: center;
+	width:1500px;
+}

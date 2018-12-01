@@ -1,0 +1,44 @@
+body {
+  background-image: url("IMG_0672.jpg");
+  background-size: 965px 750px;
+}
+
+#wrapper {
+	background-color:#74132C;
+	margin:0 auto;
+	width:1500px;
+}
+
+#header1 {
+  color:white;
+  font-size:20px;
+  text-align:center;
+}
+
+#content {
+  background-color:#E5A0B1;
+	font-size:18px;
+	height:800px;
+	text-align:center;
+	width:1500px;
+}
+
+.ctext {
+  color:black;
+}
+
+.image1 {
+  height:341px;
+	width:512px;
+  border-style:solid;
+  border-color:#9A334F;
+  border-width:3.5px;
+}
+
+#footer{
+	background-color:#9B344E;
+	font-size:15px;
+	height:65px;
+	text-align: center;
+	width:1500px;
+}
